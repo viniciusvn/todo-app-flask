@@ -1,3 +1,3 @@
 # todo-app-flask
 
-To Do List with CRUD
+To Do List with CRUD.
