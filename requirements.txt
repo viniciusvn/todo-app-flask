@@ -1,4 +1,7 @@
 flask
 flask_sqlalchemy
+flask_mongoengine
+bson.objectid
 python-dateutil
+os
 gunicorn
